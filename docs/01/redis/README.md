@@ -1,6 +1,6 @@
 # Redis
 
-[面试问题](01/redis/redis)
+[面试问题](01/redis/redisinterview)
 
 ## 简单介绍
 
